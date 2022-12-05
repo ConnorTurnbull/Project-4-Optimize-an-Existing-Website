@@ -1,0 +1,4 @@
+color best practice - all same or doesn't matter? eg RGB, #, etc
+
+best way to go about editing css for project. write own "from scratch"?
+
