@@ -1,4 +1,4 @@
-# Project-4 - Optimize an Existing Website
+# Project 4 - Optimize an Existing Website
 
 <b>Scenario</b>
 
